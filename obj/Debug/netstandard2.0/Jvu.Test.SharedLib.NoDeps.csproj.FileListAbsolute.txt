@@ -1,0 +1,10 @@
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\bin\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.deps.json
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\bin\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.dll
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\bin\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.pdb
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.dll
+C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\obj\Debug\netstandard2.0\Jvu.Test.SharedLib.NoDeps.pdb
