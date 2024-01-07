@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!-- where should the nuget package be created at -->
+    <PackageOutputPath>C:/users/Public/./nupkg</PackageOutputPath>
+
+    <!-- nuget related properties -->
+    <Authors>J.VU</Authors>
+    <Description>Test library with dummy class and mini util for binary string conversion</Description>
+    <Version>1.0.0</Version>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/jimmypvu/Jvu.Test.SharedLibrary.NoDeps</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>

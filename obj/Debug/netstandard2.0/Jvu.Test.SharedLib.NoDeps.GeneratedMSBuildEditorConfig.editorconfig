@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Jvu.Test.SharedLib.NoDeps
+build_property.ProjectDir = C:\Users\jimmy\source\repos\Jvu.Test.SharedLib.NoDeps\
